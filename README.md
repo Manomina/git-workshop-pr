@@ -22,3 +22,4 @@ Add your name to the contribution list using a pull request.
 - Prince Kumar Pandey
 - Aastha Sharma
 - Yeddula Epafra
+- Dante
