@@ -23,3 +23,4 @@ Add your name to the contribution list using a pull request.
 - Aastha Sharma
 - Yeddula Epafra
 - Dante
+- mina kh
